@@ -1,6 +1,6 @@
 
-# Created by https://www.gitignore.io/api/node
-# Edit at https://www.gitignore.io/?templates=node
+# Created by https://www.samkenxstream.github.io/api/node
+# Edit at https://www.samkenxstream.github.io/?templates=node
 
 ### Node ###
 # Logs
@@ -89,10 +89,10 @@ config.json
 # DynamoDB Local files
 .dynamodb/
 
-# End of https://www.gitignore.io/api/node
+# https://www.samkenxstream.github.io/api/node
 
-# Created by https://www.gitignore.io/api/macos
-# Edit at https://www.gitignore.io/?templates=macos
+# Created by https://www.github.io/api/macos
+# Edit at https://www.github.io/?templates=macos
 
 ### macOS ###
 # General
@@ -122,11 +122,11 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# End of https://www.gitignore.io/api/macos
+# https://www.samkenxstream.github.io/api/macos
 
 dist
 data
 scripts/
 **/lib
 /db/
-skandha
+SAMkenX
